@@ -1,0 +1,9 @@
+body {
+    width: 100%;
+}
+
+.panel {
+    width: 50%;
+    margin-top: 2%;
+    margin-left: 25%;
+}
